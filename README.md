@@ -1,73 +1,11 @@
-# Welcome to your Lovable project
+Preview Screenshots:
+<img width="1894" height="1199" alt="Screenshot 2025-11-01 184157" src="https://github.com/user-attachments/assets/9d9655dc-609b-421e-93b6-28690719afcd" />
 
-## Project info
-
-**URL**: https://lovable.dev/projects/fe70449c-291b-434c-a39f-f73d32ce2801
-
-## How can I edit this code?
-
-There are several ways of editing your application.
-
-**Use Lovable**
-
-Simply visit the [Lovable Project](https://lovable.dev/projects/fe70449c-291b-434c-a39f-f73d32ce2801) and start prompting.
-
-Changes made via Lovable will be committed automatically to this repo.
-
-**Use your preferred IDE**
-
-If you want to work locally using your own IDE, you can clone this repo and push changes. Pushed changes will also be reflected in Lovable.
-
-The only requirement is having Node.js & npm installed - [install with nvm](https://github.com/nvm-sh/nvm#installing-and-updating)
-
-Follow these steps:
-
-```sh
-# Step 1: Clone the repository using the project's Git URL.
-git clone <YOUR_GIT_URL>
-
-# Step 2: Navigate to the project directory.
-cd <YOUR_PROJECT_NAME>
-
-# Step 3: Install the necessary dependencies.
-npm i
-
-# Step 4: Start the development server with auto-reloading and an instant preview.
-npm run dev
-```
-
-**Edit a file directly in GitHub**
-
-- Navigate to the desired file(s).
-- Click the "Edit" button (pencil icon) at the top right of the file view.
-- Make your changes and commit the changes.
-
-**Use GitHub Codespaces**
-
-- Navigate to the main page of your repository.
-- Click on the "Code" button (green button) near the top right.
-- Select the "Codespaces" tab.
-- Click on "New codespace" to launch a new Codespace environment.
-- Edit files directly within the Codespace and commit and push your changes once you're done.
-
-## What technologies are used for this project?
-
-This project is built with:
-
-- Vite
-- TypeScript
-- React
-- shadcn-ui
-- Tailwind CSS
-
-## How can I deploy this project?
-
-Simply open [Lovable](https://lovable.dev/projects/fe70449c-291b-434c-a39f-f73d32ce2801) and click on Share -> Publish.
-
-## Can I connect a custom domain to my Lovable project?
-
-Yes, you can!
-
-To connect a domain, navigate to Project > Settings > Domains and click Connect Domain.
-
-Read more here: [Setting up a custom domain](https://docs.lovable.dev/features/custom-domain#custom-domain)
+<img width="1889" height="1176" alt="Screenshot 2025-11-01 184209" src="https://github.com/user-attachments/assets/e82c94d5-09c6-4db5-845b-7dd6ae206ecc" />
+<img width="1890" height="1162" alt="Screenshot 2025-11-01 184218" src="https://github.com/user-attachments/assets/9df18670-be23-4bc1-bbdb-b130d0457b67" />
+<img width="1890" height="1199" alt="Screenshot 2025-11-01 184228" src="https://github.com/user-attachments/assets/fd71121f-5967-42ec-b185-11ef24535436" />
+<img width="1889" height="1199" alt="Screenshot 2025-11-01 184237" src="https://github.com/user-attachments/assets/2d41dbb2-12d8-4586-9b37-34bc44ea50d9" />
+<img width="1888" height="1038" alt="Screenshot 2025-11-01 184246" src="https://github.com/user-attachments/assets/173ea222-1c7a-4c8a-96dd-ff3e276e3d0e" />
+<img width="1888" height="1199" alt="Screenshot 2025-11-01 184258" src="https://github.com/user-attachments/assets/60b6aef4-ef32-4125-a2ad-73ce778b8d70" />
+<img width="1891" height="965" alt="Screenshot 2025-11-01 184311" src="https://github.com/user-attachments/assets/e0946148-45af-4994-b4ec-15b011218989" />
+<img width="1893" height="1199" alt="Screenshot 2025-11-01 184325" src="https://github.com/user-attachments/assets/c45cc549-17b4-43a8-895c-becd8b2acd5b" />
