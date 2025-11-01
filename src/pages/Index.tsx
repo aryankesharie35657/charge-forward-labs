@@ -2,6 +2,9 @@ import Hero from "@/components/Hero";
 import Features from "@/components/Features";
 import VehicleComparison from "@/components/VehicleComparison";
 import ImpactCalculator from "@/components/ImpactCalculator";
+import CostAnalysisCharts from "@/components/CostAnalysisCharts";
+import RangeCalculator from "@/components/RangeCalculator";
+import TripPlanner from "@/components/TripPlanner";
 import ChargingStations from "@/components/ChargingStations";
 
 const Index = () => {
@@ -11,6 +14,9 @@ const Index = () => {
       <Features />
       <VehicleComparison />
       <ImpactCalculator />
+      <CostAnalysisCharts />
+      <RangeCalculator />
+      <TripPlanner />
       <ChargingStations />
     </main>
   );
