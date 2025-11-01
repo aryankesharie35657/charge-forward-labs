@@ -3,6 +3,13 @@ import { ChevronRight, Zap, Battery, Leaf } from "lucide-react";
 import heroImage from "@/assets/hero-ev.jpg";
 
 const Hero = () => {
+  const scrollToSection = (id: string) => {
+    const element = document.getElementById(id);
+    if (element) {
+      element.scrollIntoView({ behavior: "smooth", block: "start" });
+    }
+  };
+
   return (
     <section className="relative min-h-screen flex items-center justify-center overflow-hidden">
       {/* Background Image with Overlay */}
@@ -38,11 +45,20 @@ const Hero = () => {
           </p>
 
           <div className="flex flex-col sm:flex-row gap-4 mb-12">
-            <Button variant="hero" size="lg" className="group">
+            <Button 
+              variant="hero" 
+              size="lg" 
+              className="group"
+              onClick={() => scrollToSection("vehicle-comparison")}
+            >
               Explore Models
               <ChevronRight className="group-hover:translate-x-1 transition-transform" />
             </Button>
-            <Button variant="accent" size="lg">
+            <Button 
+              variant="accent" 
+              size="lg"
+              onClick={() => scrollToSection("impact-calculator")}
+            >
               Calculate Savings
             </Button>
           </div>

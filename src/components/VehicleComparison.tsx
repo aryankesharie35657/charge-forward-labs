@@ -37,7 +37,7 @@ const vehicles = [
 
 const VehicleComparison = () => {
   return (
-    <section className="py-24 px-6 bg-muted/30">
+    <section id="vehicle-comparison" className="py-24 px-6 bg-muted/30">
       <div className="container">
         <div className="text-center mb-16 animate-fade-in">
           <h2 className="text-4xl md:text-5xl font-bold mb-4">

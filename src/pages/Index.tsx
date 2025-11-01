@@ -1,6 +1,7 @@
 import Hero from "@/components/Hero";
 import Features from "@/components/Features";
 import VehicleComparison from "@/components/VehicleComparison";
+import ModelComparison from "@/components/ModelComparison";
 import ImpactCalculator from "@/components/ImpactCalculator";
 import CostAnalysisCharts from "@/components/CostAnalysisCharts";
 import RangeCalculator from "@/components/RangeCalculator";
@@ -13,6 +14,7 @@ const Index = () => {
       <Hero />
       <Features />
       <VehicleComparison />
+      <ModelComparison />
       <ImpactCalculator />
       <CostAnalysisCharts />
       <RangeCalculator />

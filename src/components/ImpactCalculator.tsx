@@ -15,7 +15,7 @@ const ImpactCalculator = () => {
   const co2Saved = (milesPerYear / 25) * 19.6; // lbs of CO2 per gallon
 
   return (
-    <section className="py-24 px-6">
+    <section id="impact-calculator" className="py-24 px-6">
       <div className="container">
         <div className="text-center mb-16 animate-fade-in">
           <h2 className="text-4xl md:text-5xl font-bold mb-4">
