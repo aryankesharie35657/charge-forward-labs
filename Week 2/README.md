@@ -1,10 +1,66 @@
-Preview Screenshots:
-<img width="1888" height="1198" alt="Screenshot 2025-11-01 184911" src="https://github.com/user-attachments/assets/f4556342-e53c-4a87-8749-53ff55117e2b" />
-<img width="1889" height="1176" alt="Screenshot 2025-11-01 184209" src="https://github.com/user-attachments/assets/e82c94d5-09c6-4db5-845b-7dd6ae206ecc" />
-<img width="1890" height="1162" alt="Screenshot 2025-11-01 184218" src="https://github.com/user-attachments/assets/9df18670-be23-4bc1-bbdb-b130d0457b67" />
-<img width="1890" height="1199" alt="Screenshot 2025-11-01 184228" src="https://github.com/user-attachments/assets/fd71121f-5967-42ec-b185-11ef24535436" />
-<img width="1889" height="1199" alt="Screenshot 2025-11-01 184237" src="https://github.com/user-attachments/assets/2d41dbb2-12d8-4586-9b37-34bc44ea50d9" />
-<img width="1888" height="1038" alt="Screenshot 2025-11-01 184246" src="https://github.com/user-attachments/assets/173ea222-1c7a-4c8a-96dd-ff3e276e3d0e" />
-<img width="1888" height="1199" alt="Screenshot 2025-11-01 184258" src="https://github.com/user-attachments/assets/60b6aef4-ef32-4125-a2ad-73ce778b8d70" />
-<img width="1891" height="965" alt="Screenshot 2025-11-01 184311" src="https://github.com/user-attachments/assets/e0946148-45af-4994-b4ec-15b011218989" />
-<img width="1893" height="1199" alt="Screenshot 2025-11-01 184325" src="https://github.com/user-attachments/assets/c45cc549-17b4-43a8-895c-becd8b2acd5b" />
+EV Assistant Web App – Project Overview
+
+Purpose:
+A web-based platform that helps electric vehicle (EV) users plan trips, find nearby charging stations, and estimate real-world driving range, with an added EV dataset for vehicle insights.
+
+Main Features:
+
+1. Find Charging Stations
+
+-Displays nearby EV charging stations with real-time availability.
+
+-Shows station name, address, distance, and charging speed type (Standard, Fast, Ultra Fast).
+
+-Includes a “Get Directions” button for easy navigation to each station.
+
+
+2. Trip Planner
+-Lets users plan routes between any two cities or locations.
+
+-Optimizes the route by suggesting charging stops along the journey.
+
+-Displays total distance and a “Plan Route” button for route visualization.
+
+
+3. Real-World Range Calculator
+-Estimates vehicle range based on real-world driving conditions.
+
+
+Adjustable sliders for:
+-Temperature
+
+-Average Speed
+
+-Terrain Difficulty
+
+-Climate Control Usage
+
+-Displays estimated range (in miles) and the percentage of rated range.
+
+-Shows how each factor affects range performance.
+
+
+4. Electric Vehicle Dataset
+
+-Includes data on various EV models with:
+
+-Vehicle Model Name
+
+-Battery Capacity (kWh)
+
+-Number of Seats
+
+-Enables comparison between models for range, efficiency, and suitability.
+
+-Can be used to integrate personalized trip and range recommendations.
+
+Benefits:
+
+-Provides real-time charging information and optimized travel planning.
+
+-Reduces range anxiety through accurate trip and range prediction.
+
+-Allows users to explore and compare different EV models easily.
+
+-Offers a unified platform for EV journey management and data insights.
+
